@@ -35,4 +35,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sidharth-shangonda/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sidharth-shangonda/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sidharth-shangonda/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 <!---LeetCode Topics End-->
