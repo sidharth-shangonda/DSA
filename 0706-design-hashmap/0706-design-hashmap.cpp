@@ -1,41 +1,46 @@
 class MyHashMap {
-    vector<pair<int,int>> mp;
+    static const int SIZE = 1009;//wiil be easier to choose prime 
+    vector<vector<pair<int,int>>> table; //stores buckets 
+
 public:
     MyHashMap() {
-        
+        table.resize(SIZE);
     }
-    
+
     void put(int key, int value) {
-        for(auto &it:mp) { //use & to change values 
-            if(key==it.first) {
-                it.second=value;
+        int idx = key % SIZE;
+
+        for (auto &p : table[idx]) {//use & to change the value 
+            if (p.first == key) {
+                p.second = value;
                 return;
             }
         }
-        mp.push_back(make_pair(key,value));
+
+        table[idx].push_back({key, value});
     }
-    
+
     int get(int key) {
-        for(auto it:mp) {
-            if(key==it.first) return it.second;
+        int idx = key % SIZE;
+
+        for (auto &p : table[idx]) {
+            if (p.first == key)
+                return p.second;
         }
+
         return -1;
     }
-    
+
     void remove(int key) {
-        auto it = find_if(mp.begin(),mp.end(),[&](const pair<int,int> &a){
-            return a.first==key;
-        });
-        if(it!=mp.end()) {
-            mp.erase(it);
+        int idx = key % SIZE;
+
+        auto &bucket = table[idx];
+
+        for (auto it = bucket.begin(); it != bucket.end(); ++it) {
+            if (it->first == key) {
+                bucket.erase(it);
+                return;
+            }
         }
     }
 };
-
-/**
- * Your MyHashMap object will be instantiated and called as such:
- * MyHashMap* obj = new MyHashMap();
- * obj->put(key,value);
- * int param_2 = obj->get(key);
- * obj->remove(key);
- */
