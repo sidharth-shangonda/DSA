@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/sidharth-shangonda/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sidharth-shangonda/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Counting
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/sidharth-shangonda/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
