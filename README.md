@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sidharth-shangonda/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sidharth-shangonda/DSA/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Depth-First Search
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sidharth-shangonda/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sidharth-shangonda/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sidharth-shangonda/DSA/tree/main/0739-daily-temperatures/) | Medium |
