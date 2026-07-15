@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/sidharth-shangonda/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidharth-shangonda/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sidharth-shangonda/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/sidharth-shangonda/DSA/tree/main/0704-binary-search/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidharth-shangonda/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sidharth-shangonda/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Sorting
