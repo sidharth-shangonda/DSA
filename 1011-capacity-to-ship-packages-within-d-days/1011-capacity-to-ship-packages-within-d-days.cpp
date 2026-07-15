@@ -17,16 +17,23 @@ public:
         //no need to sort 
         int low=*max_element(weights.begin(),weights.end());
         long long high=accumulate(weights.begin(),weights.end(),0LL);
-        long long ans=low-1;
+        int ans=low-1;
         //for jump 
-        long long search_space = high - low + 1;
-        long long max_jump = 1;
-        while (max_jump <= search_space) {
-            max_jump *= 2;
+        while (low <= high) {
+            // Find the middle capacity to test
+            long long mid = low + (high - low) / 2; 
+            
+            if (canShip(weights, days, mid)) {
+                // If this capacity works, record it as a potential answer
+                ans = mid; 
+                // But let's see if we can find an even SMALLER capacity that works
+                high = mid - 1; 
+            } else {
+                // If it fails, the capacity is too small. We MUST increase it.
+                low = mid + 1; 
+            }
         }
-        for(int b=max_jump;b>=1;b/=2) {
-            if(ans + b <= high  && !canShip(weights,days,ans+b)) ans+=b;
-        }
-        return ans+1;
+        
+        return ans;
     }
 };
