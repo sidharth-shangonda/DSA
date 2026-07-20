@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/sidharth-shangonda/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/sidharth-shangonda/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sidharth-shangonda/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/sidharth-shangonda/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/sidharth-shangonda/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
 ## Hash Function
