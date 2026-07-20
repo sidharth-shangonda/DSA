@@ -10,59 +10,22 @@
  */
 class Solution {
 public:
+    // also you can solve inplace
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* head=NULL;
-        ListNode* ptr=head;
+        ListNode temp(0);
+        ListNode *ptr= &temp;
         while(list1 && list2) {
-            ListNode* newNode= new ListNode();
-            if(list1->val>list2->val) {
-                newNode->val=list2->val;
-                if(ptr==NULL) { 
-                    ptr=newNode;
-                    head=ptr;
-                    list2=list2->next;
-                    continue;
-                }
-                ptr->next=newNode;
-                ptr=newNode;
+            if(list1->val > list2->val) {
+                ptr->next=list2;
                 list2=list2->next;
             } else {
-                newNode->val=list1->val;
-                if(ptr==NULL) { 
-                    ptr=newNode;
-                    head=ptr;
-                    list1=list1->next;
-                    continue;
-                }
-                ptr->next=newNode;
-                ptr=newNode;
+                ptr->next=list1;
                 list1=list1->next;
             }
+            ptr=ptr->next;
         }
-        while(list1) {
-            ListNode* newNode= new ListNode(list1->val);
-            if(ptr==NULL) { 
-                ptr=newNode;
-                head=ptr;
-                list1=list1->next;
-                continue;
-            }
-            ptr->next=newNode;
-            ptr=newNode;
-            list1=list1->next;
-        }
-        while(list2) {
-            ListNode* newNode= new ListNode(list2->val);
-            if(ptr==NULL) { 
-                ptr=newNode;
-                head=ptr;
-                list2=list2->next;
-                continue;
-            }
-            ptr->next=newNode;
-            ptr=newNode;
-            list2=list2->next;
-        }
-        return head;
+        if(list1!=NULL) ptr->next=list1;
+        else ptr->next=list2;
+        return temp.next;
     }
 };
