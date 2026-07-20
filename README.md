@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidharth-shangonda/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sidharth-shangonda/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1260-shift-2d-grid](https://github.com/sidharth-shangonda/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sidharth-shangonda/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sidharth-shangonda/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sidharth-shangonda/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sidharth-shangonda/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
