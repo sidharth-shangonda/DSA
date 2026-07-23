@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0704-binary-search](https://github.com/sidharth-shangonda/DSA/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sidharth-shangonda/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sidharth-shangonda/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -401,9 +404,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0077-combinations](https://github.com/sidharth-shangonda/DSA/tree/main/0077-combinations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 <!---LeetCode Topics End-->
