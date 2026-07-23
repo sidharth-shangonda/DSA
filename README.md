@@ -393,5 +393,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0077-combinations](https://github.com/sidharth-shangonda/DSA/tree/main/0077-combinations/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
