@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sidharth-shangonda/DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sidharth-shangonda/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0077-combinations](https://github.com/sidharth-shangonda/DSA/tree/main/0077-combinations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Bitmask
