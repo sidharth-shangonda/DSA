@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/sidharth-shangonda/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/sidharth-shangonda/DSA/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/sidharth-shangonda/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/sidharth-shangonda/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sidharth-shangonda/DSA/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/sidharth-shangonda/DSA/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/sidharth-shangonda/DSA/tree/main/0077-combinations/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
