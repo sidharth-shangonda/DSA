@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sidharth-shangonda/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
