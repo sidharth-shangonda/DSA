@@ -2,57 +2,35 @@ class Graph {
 public:
     int V;
     list<int> *adj;
-    Graph(int V) {
+    vector<int> indegree;
+    Graph(int V)  {
         this->V=V;
         adj=new list<int>[V];
+        indegree.resize(V,0);
     }
     void addEdge(int u,int v) {
         adj[u].push_back(v);
+        indegree[v]++;
     }
-    bool isCyclicHelper(int st,vector<int> &path) {
-        path[st]=1;
-        for(auto it:adj[st]) {
-            if(path[it]==-1) {
-                if(isCyclicHelper(it,path)) return true;
-            } else if(path[it]) {
-                return true;
-            }
-        }
-        path[st]=0;
-        return false;
-        
-    }
-    bool isCyclic() {
-        vector<int> path(V,-1);
-        for(int i=0;i<V;i++) {
-            if(path[i]==-1) {
-                if(isCyclicHelper(i,path)) return true;
-            }
-        }
-        return false;
-    }
-    void topoSortHelper(int st,vector<bool> &visited,stack<int> &s) {
-        visited[st]=true;
-        for(auto it:adj[st]) {
-            if(!visited[it]) {
-                topoSortHelper(it,visited,s);
-            }
-        }
-        s.push(st);
-    }
-    
-    vector<int> topoSort() {
-        vector<bool> visited(V,false);
-        stack<int> s;
-        for(int i=0;i<V;i++) {
-            if(!visited[i]) {
-                topoSortHelper(i,visited,s);
-            }
-        }
+    // using bfs
+    vector<int> kahnsAlgo() {
         vector<int> ans;
-        while(!s.empty()) {
-            ans.push_back(s.top());
-            s.pop();
+        queue<int> q;
+        for(int i=0;i<V;i++) {
+            if(indegree[i]==0) q.push(i);
+        }
+        while(!q.empty()) {
+            int cur=q.front();
+            q.pop();
+            ans.push_back(cur);
+            for(auto it:adj[cur]) {
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
+            }
+        }
+        if(ans.size()!=V) {
+            cout<<"Graph has a cycle, topological sort not possible."<<endl;
+            return {};
         }
         return ans;
     }
@@ -60,11 +38,11 @@ public:
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-         Graph g(numCourses);
+        Graph g(numCourses);
         for(auto it:prerequisites) {
             g.addEdge(it[1],it[0]);//not a->b ots b->a
         }
-        if(g.isCyclic()) return {};
-        return g.topoSort();
+        
+        return g.kahnsAlgo();
     }
 };
