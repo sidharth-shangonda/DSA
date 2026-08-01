@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sidharth-shangonda/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/sidharth-shangonda/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidharth-shangonda/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sidharth-shangonda/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sidharth-shangonda/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sidharth-shangonda/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,4 +469,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
