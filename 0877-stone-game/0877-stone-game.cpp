@@ -14,9 +14,10 @@ public:
     }
 
     bool stoneGame(vector<int>& piles) {
-        int n = piles.size();
-        vector<vector<int>> dp(n, vector<int>(n, INT_MIN));
+        // int n = piles.size();
+        // vector<vector<int>> dp(n, vector<int>(n, INT_MIN));
 
-        return solve(0, n - 1, piles, dp) >= 0;
+        // return solve(0, n - 1, piles, dp) >= 0;
+        return true;
     }
 };
