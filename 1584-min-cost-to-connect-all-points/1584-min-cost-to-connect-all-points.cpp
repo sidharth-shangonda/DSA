@@ -1,51 +1,25 @@
-class Graph {
-public:
-    int V;
-    list<pair<int,int>> *adj;
-    Graph(int V) {
-        this->V=V;
-        adj=new list<pair<int,int>>[V];
-    }
-    void addEdge(int u, int v,int wt) {
-        adj[u].push_back({v,wt});
-        adj[v].push_back({u,wt});
-    }
-    int prims() {
-        set<int> visited; 
-        int totalWeight=0;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        pq.push({0,0});
-        while(!pq.empty()) {
-            auto [wt,u]=pq.top();
-            pq.pop();
-            if(visited.count(u)) continue;
-            totalWeight+=wt;
-            visited.insert(u);
-            if(visited.size()==V) break;
-            for(auto [v,wt]:adj[u]) {
-                if(!visited.count(v)) {
-                    pq.push({wt,v});
-                }
-            }
-        }
-        return totalWeight;
-    }
-};
 class Solution {
 public:
+    //similar to prims but pointers approach
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n=points.size();
-        Graph graph(n);
-        for(int u=0;u<n;u++) {
+        vector<int> dist(n,INT_MAX);
+        int totalWt=0;
+        for(int u=0;u<n-1;u++) {
             int x1=points[u][0];
             int y1=points[u][1];
             for(int v=u+1;v<n;v++) {
                 int x2=points[v][0];
                 int y2=points[v][1];
                 int wt=abs(x1-x2)+abs(y1-y2);
-                graph.addEdge(u,v,wt);
+                dist[v]=min(dist[v],wt);
+                if(dist[u+1] > dist[v]) {//need min distance at i+1
+                swap(points[u+1],points[v]);//now swat the points to the current so it this point is marked as done and do it unitl it is the smallest 
+                swap(dist[u+1],dist[v]);//also the value at the dist
+                }
             }
+            totalWt+=dist[u+1];//now add the dist of i+1 to total wt
         }
-        return graph.prims();
+        return totalWt;
     }
 };
