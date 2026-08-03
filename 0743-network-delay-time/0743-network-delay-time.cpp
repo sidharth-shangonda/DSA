@@ -14,6 +14,7 @@ public:
         while(!pq.empty()) {
             auto [dist_u,u]=pq.top();
             pq.pop();
+            if(dist[u]<dist_u) continue;//this singel line can save much more complexity
             for(auto [v,wt]:graph[u]) {
                 if(dist[v]>dist_u+wt) {
                     dist[v]=dist_u+wt;
