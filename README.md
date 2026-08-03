@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/sidharth-shangonda/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sidharth-shangonda/DSA/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/sidharth-shangonda/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/sidharth-shangonda/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sidharth-shangonda/DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/sidharth-shangonda/DSA/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sidharth-shangonda/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sidharth-shangonda/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/sidharth-shangonda/DSA/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sidharth-shangonda/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -407,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
@@ -514,4 +519,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sidharth-shangonda/DSA/tree/main/0877-stone-game/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
