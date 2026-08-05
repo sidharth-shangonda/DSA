@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/sidharth-shangonda/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/sidharth-shangonda/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sidharth-shangonda/DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sidharth-shangonda/DSA/tree/main/1020-number-of-enclaves/) | Medium |
@@ -138,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/sidharth-shangonda/DSA/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sidharth-shangonda/DSA/tree/main/0739-daily-temperatures/) | Medium |
@@ -216,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/sidharth-shangonda/DSA/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sidharth-shangonda/DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -235,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sidharth-shangonda/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sidharth-shangonda/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -327,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0853-car-fleet](https://github.com/sidharth-shangonda/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sidharth-shangonda/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
