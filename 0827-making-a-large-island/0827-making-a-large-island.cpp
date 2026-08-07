@@ -74,6 +74,6 @@ public:
                 }
             }
         }
-        return maxArea;
+        return maxArea?maxArea:1;//dont foget edge case
     }
 };
