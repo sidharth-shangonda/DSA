@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/sidharth-shangonda/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/sidharth-shangonda/DSA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/sidharth-shangonda/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sidharth-shangonda/DSA/tree/main/0877-stone-game/) | Medium |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/sidharth-shangonda/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -559,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sidharth-shangonda/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
