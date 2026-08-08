@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sidharth-shangonda/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/sidharth-shangonda/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sidharth-shangonda/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sidharth-shangonda/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sidharth-shangonda/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
