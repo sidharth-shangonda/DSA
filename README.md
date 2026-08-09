@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sidharth-shangonda/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0198-house-robber](https://github.com/sidharth-shangonda/DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/sidharth-shangonda/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0198-house-robber](https://github.com/sidharth-shangonda/DSA/tree/main/0198-house-robber/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
