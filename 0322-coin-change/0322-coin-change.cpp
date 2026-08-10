@@ -5,7 +5,7 @@ public:
     int coinChange(vector<int>& coins, int amount) {
       //dp approch
       int n=coins.size();
-      vector<vector<unsigned int>> dp(n+1,vector<unsigned int>(amount+1,1e9));
+      vector<vector<int>> dp(n+1,vector<int>(amount+1,1e9));
       for(int i=0;i<=n;i++) {
         dp[i][0]=0;
       }
