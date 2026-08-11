@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int findSum(int n,long long curSum,long long sum,int target,vector<int>& nums,vector<vector<int>> &dp) {
-        if(n==0) {
-            if(curSum==target) return 1;//combination found
-            return 0;
+    
+    int findTargetSumWays(vector<int>& coins, int target) {
+        int n=coins.size();
+        int sum=accumulate(coins.begin(),coins.end(),0);
+        int amount=(sum+target)/2;
+        if(abs(target)>sum || (sum + target) % 2 != 0) return 0;
+        vector<vector<unsigned int>> dp(n+1,vector<unsigned int>(amount+1,0));
+        //you have 1 coice if amount=0 i.e select nothing is also a choice 
+        dp[0][0]=1;
+        //meaning is at i,j the total combination to get sum j with i values.
+        for(int i=1;i<=n;i++) {
+            for(int j=0;j<=amount;j++) {
+                //also we want all combinations include + exclude 
+                if(coins[i-1]<=j) {
+                    dp[i][j]=dp[i-1][j-coins[i-1]] + dp[i-1][j];
+                } else {
+                    dp[i][j]=dp[i-1][j];//dont forget else
+                }
+            }
         }
-        if(dp[n][curSum+sum]!=-1) {
-            return dp[n][curSum+sum];
-        }
-        //we want total combinatios of add and sub
-        int add=findSum(n-1,curSum+nums[n-1]*1LL,sum,target,nums,dp);
-        int sub=findSum(n-1,curSum-nums[n-1]*1LL,sum,target,nums,dp);
-        return dp[n][curSum+sum]=add+sub;
-    }
-    int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        long long sum=accumulate(nums.begin(),nums.end(),0);
-        if(abs(target)>sum) return 0;
-        vector<vector<int>> dp(n+1,vector<int>(2*sum+1,-1));
-        if(target<0) target*=-1;
-
-        return findSum(n,0,sum,target,nums,dp);
+        return dp[n][amount];
     }
 };
