@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/sidharth-shangonda/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0877-stone-game](https://github.com/sidharth-shangonda/DSA/tree/main/0877-stone-game/) | Medium |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/sidharth-shangonda/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sidharth-shangonda/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -690,4 +692,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/sidharth-shangonda/DSA/tree/main/1510-stone-game-iv/) | Hard |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/sidharth-shangonda/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
