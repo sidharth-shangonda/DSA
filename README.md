@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/sidharth-shangonda/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidharth-shangonda/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sidharth-shangonda/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sidharth-shangonda/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sidharth-shangonda/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sidharth-shangonda/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sidharth-shangonda/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidharth-shangonda/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sidharth-shangonda/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -544,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0895-maximum-frequency-stack](https://github.com/sidharth-shangonda/DSA/tree/main/0895-maximum-frequency-stack/) | Hard |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -586,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
