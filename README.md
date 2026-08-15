@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/sidharth-shangonda/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1140-stone-game-ii](https://github.com/sidharth-shangonda/DSA/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/sidharth-shangonda/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sidharth-shangonda/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1406-stone-game-iii](https://github.com/sidharth-shangonda/DSA/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/sidharth-shangonda/DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sidharth-shangonda/DSA/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sidharth-shangonda/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sidharth-shangonda/DSA/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1768-merge-strings-alternately](https://github.com/sidharth-shangonda/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sidharth-shangonda/DSA/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
