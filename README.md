@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sidharth-shangonda/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/sidharth-shangonda/DSA/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/sidharth-shangonda/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/sidharth-shangonda/DSA/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/sidharth-shangonda/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/sidharth-shangonda/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/sidharth-shangonda/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -553,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/sidharth-shangonda/DSA/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/sidharth-shangonda/DSA/tree/main/0698-partition-to-k-equal-sum-subsets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sidharth-shangonda/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -799,4 +803,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
