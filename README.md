@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/sidharth-shangonda/DSA/tree/main/0743-network-delay-time/) | Medium |
+| [0752-open-the-lock](https://github.com/sidharth-shangonda/DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/sidharth-shangonda/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sidharth-shangonda/DSA/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/sidharth-shangonda/DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/sidharth-shangonda/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/sidharth-shangonda/DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0845-longest-mountain-in-array](https://github.com/sidharth-shangonda/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
+| [0752-open-the-lock](https://github.com/sidharth-shangonda/DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/sidharth-shangonda/DSA/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sidharth-shangonda/DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sidharth-shangonda/DSA/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
+| [0752-open-the-lock](https://github.com/sidharth-shangonda/DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/sidharth-shangonda/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sidharth-shangonda/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -813,4 +817,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/sidharth-shangonda/DSA/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
