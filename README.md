@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sidharth-shangonda/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sidharth-shangonda/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/sidharth-shangonda/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/sidharth-shangonda/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sidharth-shangonda/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/sidharth-shangonda/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/sidharth-shangonda/DSA/tree/main/0733-flood-fill/) | Easy |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sidharth-shangonda/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/sidharth-shangonda/DSA/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/sidharth-shangonda/DSA/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/sidharth-shangonda/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/sidharth-shangonda/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/sidharth-shangonda/DSA/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/sidharth-shangonda/DSA/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
