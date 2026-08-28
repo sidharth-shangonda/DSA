@@ -10,9 +10,9 @@
  */
 class Solution {
 public:
-    void reverseLL(ListNode* head) {
-        ListNode* temp=head->next;
-        if(!temp ||!temp->next) return;
+    ListNode* reverseLL(ListNode* head) {
+        ListNode* temp=head;
+        if(!temp) return NULL;
         ListNode* prev=NULL;
         while(temp) {
             ListNode* temp2=temp->next;
@@ -20,13 +20,30 @@ public:
             prev=temp;
             temp=temp2;
         }
-        head->next=prev;
+        return prev;
     }
     void reorderList(ListNode* head) {
         if(!head || !head->next ) return;
-        while(head) {
-            reverseLL(head);
-            head=head->next;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast && fast->next) {
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode* second = slow->next;
+        slow->next = NULL;
+        // Reverse second half
+        second = reverseLL(second);
+        // Merge
+
+        ListNode* st = head;
+        while(st && second) {
+            ListNode *stNext=st->next;
+            ListNode *secondNext=second->next;
+            st->next=second;
+            second->next=stNext;
+            st=stNext;
+            second=secondNext;
         }
     }
 };
