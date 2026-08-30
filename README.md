@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0575-distribute-candies](https://github.com/sidharth-shangonda/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0695-max-area-of-island](https://github.com/sidharth-shangonda/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
+| [0575-distribute-candies](https://github.com/sidharth-shangonda/DSA/tree/main/0575-distribute-candies/) | Easy |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
