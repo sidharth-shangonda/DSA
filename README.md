@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sidharth-shangonda/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/sidharth-shangonda/DSA/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/sidharth-shangonda/DSA/tree/main/0018-4sum/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidharth-shangonda/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sidharth-shangonda/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/sidharth-shangonda/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/sidharth-shangonda/DSA/tree/main/0041-first-missing-positive/) | Hard |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sidharth-shangonda/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sidharth-shangonda/DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sidharth-shangonda/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/sidharth-shangonda/DSA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
