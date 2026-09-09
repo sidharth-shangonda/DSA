@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0845-longest-mountain-in-array](https://github.com/sidharth-shangonda/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0853-car-fleet](https://github.com/sidharth-shangonda/DSA/tree/main/0853-car-fleet/) | Medium |
 | [0877-stone-game](https://github.com/sidharth-shangonda/DSA/tree/main/0877-stone-game/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sidharth-shangonda/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0994-rotting-oranges](https://github.com/sidharth-shangonda/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/sidharth-shangonda/DSA/tree/main/0721-accounts-merge/) | Medium |
 | [0752-open-the-lock](https://github.com/sidharth-shangonda/DSA/tree/main/0752-open-the-lock/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/sidharth-shangonda/DSA/tree/main/0895-maximum-frequency-stack/) | Hard |
+| [0904-fruit-into-baskets](https://github.com/sidharth-shangonda/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sidharth-shangonda/DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1048-longest-string-chain](https://github.com/sidharth-shangonda/DSA/tree/main/1048-longest-string-chain/) | Medium |
@@ -717,6 +719,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/sidharth-shangonda/DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/sidharth-shangonda/DSA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sidharth-shangonda/DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sidharth-shangonda/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidharth-shangonda/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sidharth-shangonda/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
