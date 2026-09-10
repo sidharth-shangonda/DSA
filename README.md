@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sidharth-shangonda/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1462-course-schedule-iv](https://github.com/sidharth-shangonda/DSA/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidharth-shangonda/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sidharth-shangonda/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/sidharth-shangonda/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/sidharth-shangonda/DSA/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidharth-shangonda/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidharth-shangonda/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
