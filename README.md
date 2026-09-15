@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sidharth-shangonda/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sidharth-shangonda/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/sidharth-shangonda/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/sidharth-shangonda/DSA/tree/main/0853-car-fleet/) | Medium |
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sidharth-shangonda/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sidharth-shangonda/DSA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sidharth-shangonda/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/sidharth-shangonda/DSA/tree/main/0853-car-fleet/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
