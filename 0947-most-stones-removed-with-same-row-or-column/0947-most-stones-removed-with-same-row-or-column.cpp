@@ -29,23 +29,30 @@ public:
 class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
+        int maxRow=0;
+        int maxCol=0;
         int n=stones.size();
-        DisjointSet sets(n);
-        for(int i=0;i<n-1;i++) {
-            int x=stones[i][0];
-            int y=stones[i][1];
-            for(int j=i+1;j<n;j++) {
-                int dx=stones[j][0];
-                int dy=stones[j][1];
-                if(x==dx || y == dy) {
-                    sets.unionByRank(i,j);
-                }
-            }
+        for(auto &e:stones) {
+            maxRow=max(maxRow,e[0]);
+            maxCol=max(maxCol,e[1]);
         }
-        set <int> unique;
+        int columOfset=maxRow+1;
+        int totalNodes=columOfset+maxCol+1;
+        DisjointSet sets(totalNodes);
+        set <int> usedNodes;
         for(int i=0;i<n;i++) {
-            if(!unique.count(sets.find(i))) unique.insert(sets.find(i));//dont implemet the i insert the parent sets.find(i)
+           int row=stones[i][0];
+           int col=columOfset+stones[i][1];
+           sets.unionByRank(row,col);
+           usedNodes.insert(row);
+           usedNodes.insert(col);
         }
-        return n-unique.size();//return the n - total subgraphs
+        // set <int> unique;
+        //always dont use extraspace to count unique sets just use find(i)==i and count++
+        int components=0;
+        for(auto i:usedNodes) {
+            if(sets.find(i) == i) components++;//dont implemet the i insert the parent sets.find(i)
+        }
+        return n-components;//return the n - total subgraphs
     }
 };
