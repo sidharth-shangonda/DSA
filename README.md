@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sidharth-shangonda/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/sidharth-shangonda/DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0289-game-of-life](https://github.com/sidharth-shangonda/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/sidharth-shangonda/DSA/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/sidharth-shangonda/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0289-game-of-life](https://github.com/sidharth-shangonda/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sidharth-shangonda/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0542-01-matrix](https://github.com/sidharth-shangonda/DSA/tree/main/0542-01-matrix/) | Medium |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0289-game-of-life](https://github.com/sidharth-shangonda/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sidharth-shangonda/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sidharth-shangonda/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
