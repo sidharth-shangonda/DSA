@@ -395,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sidharth-shangonda/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/sidharth-shangonda/DSA/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/sidharth-shangonda/DSA/tree/main/0072-edit-distance/) | Medium |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sidharth-shangonda/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sidharth-shangonda/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/sidharth-shangonda/DSA/tree/main/0143-reorder-list/) | Medium |
@@ -931,4 +933,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sidharth-shangonda/DSA/tree/main/0169-majority-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sidharth-shangonda/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
