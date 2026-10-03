@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sidharth-shangonda/DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/sidharth-shangonda/DSA/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/sidharth-shangonda/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/sidharth-shangonda/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sidharth-shangonda/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/sidharth-shangonda/DSA/tree/main/0120-triangle/) | Medium |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/sidharth-shangonda/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sidharth-shangonda/DSA/tree/main/0076-minimum-window-substring/) | Hard |
+| [0091-decode-ways](https://github.com/sidharth-shangonda/DSA/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sidharth-shangonda/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/sidharth-shangonda/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
