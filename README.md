@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/sidharth-shangonda/DSA/tree/main/1563-stone-game-v/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2029-stone-game-ix](https://github.com/sidharth-shangonda/DSA/tree/main/2029-stone-game-ix/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidharth-shangonda/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidharth-shangonda/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sidharth-shangonda/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2029-stone-game-ix](https://github.com/sidharth-shangonda/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2401-longest-nice-subarray](https://github.com/sidharth-shangonda/DSA/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sidharth-shangonda/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sidharth-shangonda/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/sidharth-shangonda/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sidharth-shangonda/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sidharth-shangonda/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sidharth-shangonda/DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -699,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/sidharth-shangonda/DSA/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0912-sort-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -745,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidharth-shangonda/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sidharth-shangonda/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sidharth-shangonda/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -969,4 +974,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sidharth-shangonda/DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
