@@ -1,34 +1,28 @@
 class Solution {
-public:  
-    void solve(int idx,string s,vector<vector<string>> &ans,vector<string> &pair) {
-        string temp="";
-        if(!pair.empty()) {
-            temp=pair.back();
-            reverse(temp.begin(),temp.end());
+public:
+    bool validPalindrome(string s) {
+        string cur=s;
+        reverse(s.begin(),s.end());
+        return s==cur;
+    }
+    void solve(int idx,string &s,vector<string> &pair,vector<vector<string>> &ans) {
+        if(idx==s.size()) {
+            ans.push_back(pair);
         }
-        if(idx==s.size()){
-            if(temp == pair.back()) {
-                ans.push_back(pair);
+        string cur="";
+        for(int j=idx;j<s.size();j++) {
+            cur+=s[j];
+            if(validPalindrome(cur)) {
+                pair.push_back(cur);
+                solve(j+1,s,pair,ans);
+                pair.pop_back();
             }
-            return;
-        }
-        if(pair.empty() || temp==pair.back()) {
-            string t{s[idx]};
-            pair.push_back(t);
-            solve(idx+1,s,ans,pair);
-            pair.pop_back();
-        }
-        if(!pair.empty()) {
-            string t=pair.back();
-            pair.pop_back();
-            pair.push_back(t+s[idx]);
-            solve(idx+1,s,ans,pair);
         }
     }
-    vector<vector<string>> partition(string s) {
+    vector<vector<string>> partition(string &s) {
         vector<vector<string>> ans;
         vector<string> pair;
-        solve(0,s,ans,pair);
+        solve(0,s,pair,ans);
         return ans;
     }
 };
