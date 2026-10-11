@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/sidharth-shangonda/DSA/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/sidharth-shangonda/DSA/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sidharth-shangonda/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0547-number-of-provinces](https://github.com/sidharth-shangonda/DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/sidharth-shangonda/DSA/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/sidharth-shangonda/DSA/tree/main/0695-max-area-of-island/) | Medium |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/sidharth-shangonda/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sidharth-shangonda/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sidharth-shangonda/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -963,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sidharth-shangonda/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
