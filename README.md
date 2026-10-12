@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sidharth-shangonda/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/sidharth-shangonda/DSA/tree/main/1406-stone-game-iii/) | Hard |
+| [1480-running-sum-of-1d-array](https://github.com/sidharth-shangonda/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidharth-shangonda/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sidharth-shangonda/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1563-stone-game-v](https://github.com/sidharth-shangonda/DSA/tree/main/1563-stone-game-v/) | Hard |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/sidharth-shangonda/DSA/tree/main/1140-stone-game-ii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/sidharth-shangonda/DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/sidharth-shangonda/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sidharth-shangonda/DSA/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/sidharth-shangonda/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
