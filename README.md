@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/sidharth-shangonda/DSA/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/sidharth-shangonda/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2029-stone-game-ix](https://github.com/sidharth-shangonda/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sidharth-shangonda/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/sidharth-shangonda/DSA/tree/main/0289-game-of-life/) | Medium |
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sidharth-shangonda/DSA/tree/main/1260-shift-2d-grid/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/sidharth-shangonda/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sidharth-shangonda/DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sidharth-shangonda/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sidharth-shangonda/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
