@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/sidharth-shangonda/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/sidharth-shangonda/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/sidharth-shangonda/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/sidharth-shangonda/DSA/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/sidharth-shangonda/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0322-coin-change](https://github.com/sidharth-shangonda/DSA/tree/main/0322-coin-change/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/sidharth-shangonda/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sidharth-shangonda/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sidharth-shangonda/DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sidharth-shangonda/DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sidharth-shangonda/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -631,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
 | [0705-design-hashset](https://github.com/sidharth-shangonda/DSA/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/sidharth-shangonda/DSA/tree/main/0706-design-hashmap/) | Easy |
@@ -1028,4 +1032,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
