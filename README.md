@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/sidharth-shangonda/DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/sidharth-shangonda/DSA/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sidharth-shangonda/DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/sidharth-shangonda/DSA/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/sidharth-shangonda/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sidharth-shangonda/DSA/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -680,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/sidharth-shangonda/DSA/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sidharth-shangonda/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
