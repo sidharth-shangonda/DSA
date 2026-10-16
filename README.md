@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/sidharth-shangonda/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/sidharth-shangonda/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/sidharth-shangonda/DSA/tree/main/0135-candy/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sidharth-shangonda/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sidharth-shangonda/DSA/tree/main/0169-majority-element/) | Easy |
@@ -691,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/sidharth-shangonda/DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/sidharth-shangonda/DSA/tree/main/0134-gas-station/) | Medium |
+| [0135-candy](https://github.com/sidharth-shangonda/DSA/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sidharth-shangonda/DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sidharth-shangonda/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sidharth-shangonda/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
