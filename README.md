@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidharth-shangonda/DSA/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sidharth-shangonda/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2029-stone-game-ix](https://github.com/sidharth-shangonda/DSA/tree/main/2029-stone-game-ix/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/sidharth-shangonda/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sidharth-shangonda/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/sidharth-shangonda/DSA/tree/main/0735-asteroid-collision/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sidharth-shangonda/DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/sidharth-shangonda/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/sidharth-shangonda/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/sidharth-shangonda/DSA/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sidharth-shangonda/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sidharth-shangonda/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -850,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/sidharth-shangonda/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
