@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/sidharth-shangonda/DSA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2029-stone-game-ix](https://github.com/sidharth-shangonda/DSA/tree/main/2029-stone-game-ix/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/sidharth-shangonda/DSA/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-shangonda/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sidharth-shangonda/DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sidharth-shangonda/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -564,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidharth-shangonda/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/sidharth-shangonda/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-shangonda/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sidharth-shangonda/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sidharth-shangonda/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/sidharth-shangonda/DSA/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -590,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/sidharth-shangonda/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sidharth-shangonda/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/sidharth-shangonda/DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sidharth-shangonda/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sidharth-shangonda/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/sidharth-shangonda/DSA/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sidharth-shangonda/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
