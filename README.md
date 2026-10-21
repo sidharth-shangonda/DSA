@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sidharth-shangonda/DSA/tree/main/0133-clone-graph/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -618,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sidharth-shangonda/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sidharth-shangonda/DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/sidharth-shangonda/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sidharth-shangonda/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
