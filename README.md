@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0827-making-a-large-island](https://github.com/sidharth-shangonda/DSA/tree/main/0827-making-a-large-island/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sidharth-shangonda/DSA/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sidharth-shangonda/DSA/tree/main/1020-number-of-enclaves/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sidharth-shangonda/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sidharth-shangonda/DSA/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1462-course-schedule-iv](https://github.com/sidharth-shangonda/DSA/tree/main/1462-course-schedule-iv/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/sidharth-shangonda/DSA/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sidharth-shangonda/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sidharth-shangonda/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidharth-shangonda/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sidharth-shangonda/DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sidharth-shangonda/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidharth-shangonda/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -577,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/sidharth-shangonda/DSA/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sidharth-shangonda/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sidharth-shangonda/DSA/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sidharth-shangonda/DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sidharth-shangonda/DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sidharth-shangonda/DSA/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
