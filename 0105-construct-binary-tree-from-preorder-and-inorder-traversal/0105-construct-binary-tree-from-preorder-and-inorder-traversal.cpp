@@ -11,21 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* tree (vector<int>& inorder,int iStart,int iEnd, vector<int>& preorder,int pStart) {
-        if(iStart>iEnd) return NULL;
-        int rootNode = preorder[pStart];
-        TreeNode* root=new TreeNode(rootNode);
-        int i=0;
-        for(i=iStart;i<=iEnd;i++) {
-            if(rootNode==inorder[i]) break;
+    TreeNode* build(vector<int> &preorder,vector<int> &inorder,int idx,int st,int end) {
+        if(st>end) return NULL;
+        int rootVal = preorder[idx];
+        TreeNode* root = new TreeNode(rootVal);
+        int mid = -1; 
+        for(int i = st; i<=end;i++) {
+            if(rootVal == inorder[i]) {
+                mid = i;
+                break;
+            }
         }
-        int leftSize = i - iStart;
-        root->left=tree(inorder,iStart,i-1,preorder,pStart+1);
-        root->right=tree(inorder,i+1,iEnd,preorder,pStart+leftSize+1);
+        if(mid == -1) return nullptr;
+        root->left = build(preorder,inorder,idx+1,st,mid-1);
+        root->right = build(preorder,inorder,idx + mid - st + 1,mid+1,end);//important property calculate the size of the left sub tree and ad add in index to get the right node value!!!
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int n=inorder.size();
-        return tree(inorder,0,n-1,preorder,0);
+        return build(preorder,inorder,0,0,preorder.size()-1);
     }
 };
