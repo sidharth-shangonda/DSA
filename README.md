@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0100-same-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sidharth-shangonda/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sidharth-shangonda/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0100-same-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sidharth-shangonda/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/sidharth-shangonda/DSA/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sidharth-shangonda/DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sidharth-shangonda/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -545,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sidharth-shangonda/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0145-binary-tree-postorder-traversal](https://github.com/sidharth-shangonda/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -765,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/sidharth-shangonda/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/sidharth-shangonda/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sidharth-shangonda/DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sidharth-shangonda/DSA/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0143-reorder-list](https://github.com/sidharth-shangonda/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
