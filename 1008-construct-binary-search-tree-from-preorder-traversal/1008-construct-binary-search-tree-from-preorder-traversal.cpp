@@ -11,16 +11,21 @@
  */
 class Solution {
 public:
-    TreeNode* insertBST(TreeNode* root,int key) {
-        if(!root) return new TreeNode(key);
-        if(root->val>key) root->left=insertBST(root->left,key);
-        else if(root->val<key) root->right=insertBST(root->right,key);
+    TreeNode* insertNode(TreeNode* root,int key) {
+        if(root == nullptr) {
+            root = new TreeNode(key);
+        } else if(root->val > key) {
+            root->left = insertNode(root->left ,key);
+        } else if(root->val < key ) {
+            root->right = insertNode(root->right,key);
+        }
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        TreeNode* root=NULL;
+        TreeNode *root = nullptr;
+        // TreeNode *temp = root;
         for(auto key:preorder) {
-            root=insertBST(root,key);
+            root = insertNode(root,key);
         }
         return root;
     }
