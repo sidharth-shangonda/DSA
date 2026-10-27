@@ -1,16 +1,32 @@
 class Solution {
 public:
-    int kthSmallest(vector<vector<int>>& matrix, int k) {
-        int n=matrix.size();
-        priority_queue<int,vector<int>,greater<int>> pq;
-        for(int i = 0;i<n;i++) {
-            for(int j=0;j<n;j++) {
-                pq.push(matrix[i][j]);
+    int countKth(vector<vector<int>> &matrix,int num) {
+        int n = matrix.size();
+        int row = n -1;
+        int col =0;
+        int cnt = 0;
+        while(row >=0 && col <n) {
+            if(matrix[row][col] <= num) {
+                cnt += (row+1);
+                col++;
+            } else {
+                row--;
             }
         }
-        while(--k){
-            pq.pop();
+        return cnt;
+    }
+    int kthSmallest(vector<vector<int>>& matrix, int k) {
+        int n = matrix.size();
+        int low = matrix[0][0];
+        int high = matrix[n-1][n-1];
+        while(low<high) {
+            int mid = low + (high - low) / 2;
+            if(countKth(matrix,mid) >= k) {
+                high = mid;
+            } else {
+                low = mid+1;
+            }
         }
-        return pq.top();
+        return low;
     }
 };
