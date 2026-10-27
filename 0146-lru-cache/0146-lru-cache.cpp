@@ -2,89 +2,83 @@ class Node {
 public:
     int key;
     int value;
-    Node* next;
-    Node* prev;
+    Node* left;
+    Node* right;
     Node(int key,int value) {
-        this->key=key;
-        this->value=value;
-        this->next=NULL;
-        this->prev=NULL;
+        this->key = key;
+        this->value = value;
+        left = NULL;
+        right = NULL;
     }
-
 };
 class LRUCache {
-    int size;
-    unordered_map<int,Node*> mp;
-    Node* ed;
-    Node* st;
 public:
+    unordered_map<int,Node*> mp;
+    int size;
+    Node* st;
+    Node* end;
     LRUCache(int capacity) {
         this->size = capacity;
-        st=NULL;
-        ed=NULL;
+        st = NULL;
+        end = NULL;
     }
     
     int get(int key) {
         if(!mp.count(key)) return -1;
-        int value=mp[key]->value;
+        int value = mp[key]->value;
         replace(key);
         return value;
     }
     
     void put(int key, int value) {
-        if(mp.count(key)) {
-            mp[key]->value=value;
+        if(mp.count(key)){
+            mp[key]->value = value;
             replace(key);
             return;
         }
-        if(mp.size()==size) {
-            deleteNode();
-        }
+        if(mp.size() == size) deleteNode();
         addNode(key,value);
     }
     void addNode(int key,int value) {
-        Node* newNode=new Node(key,value);
-        if(st==NULL) {
-            mp[key]=newNode;
-            st=newNode;
-            ed=newNode;
+        Node *newNode = new Node(key,value);
+        if(st == nullptr) {
+            st = end = newNode;
+            mp[key] = newNode;
             return;
         }
-        st->next=newNode;
-        newNode->prev=st;
-        st=newNode;
-        mp[key]=newNode;
+        st->right = newNode;
+        newNode->left = st;
+        st = newNode; 
+        mp[key] = newNode;
     }
     void deleteNode() {
-        if(ed==NULL ) return;
-        Node* temp=ed;
-        if(ed==st) {
-            ed=NULL;
-            st=NULL;
+        if(end == nullptr) return ;
+        Node* temp = end;
+        if(end == st) {
+            st = end = nullptr;
         } else {
-            ed=ed->next;
-            ed->prev=NULL;
+            end=end->right;
+            end->left=nullptr;
         }
         mp.erase(temp->key);
         delete temp;
     }
+
     void replace(int key) {
-        Node* node=mp[key];
-        if(node==st) return;
-        //if the curreent node is lru
-        if(node==ed) {
-            ed=ed->next;
-            ed->prev=NULL;
+        Node* node = mp[key];
+        if(node == st) return;
+        if(node == end) {
+            end = end->right;
+            end->left=nullptr;
         } else {
-            node->next->prev=node->prev;
-            node->prev->next=node->next;
+            node->left->right = node->right;
+            node->right->left = node->left;
         }
-        //shift to MRU
-        st->next=node;
-        node->prev=st;
-        node->next=NULL;
-        st=node;
-                
+        // make mru
+        st->right = node;
+        node->left = st;
+        node->right = NULL;
+        st = node;
     }
 };
 
