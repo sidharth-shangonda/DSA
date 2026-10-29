@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sidharth-shangonda/DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/sidharth-shangonda/DSA/tree/main/0169-majority-element/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/sidharth-shangonda/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0229-majority-element-ii/) | Medium |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sidharth-shangonda/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sidharth-shangonda/DSA/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0344-reverse-string](https://github.com/sidharth-shangonda/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
@@ -692,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
@@ -1118,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/sidharth-shangonda/DSA/tree/main/0139-word-break/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
