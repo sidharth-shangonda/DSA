@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sidharth-shangonda/DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sidharth-shangonda/DSA/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/sidharth-shangonda/DSA/tree/main/0210-course-schedule-ii/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sidharth-shangonda/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidharth-shangonda/DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sidharth-shangonda/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/sidharth-shangonda/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sidharth-shangonda/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0344-reverse-string](https://github.com/sidharth-shangonda/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/sidharth-shangonda/DSA/tree/main/0394-decode-string/) | Medium |
 | [0399-evaluate-division](https://github.com/sidharth-shangonda/DSA/tree/main/0399-evaluate-division/) | Medium |
@@ -695,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/sidharth-shangonda/DSA/tree/main/0146-lru-cache/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sidharth-shangonda/DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sidharth-shangonda/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sidharth-shangonda/DSA/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/sidharth-shangonda/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0622-design-circular-queue](https://github.com/sidharth-shangonda/DSA/tree/main/0622-design-circular-queue/) | Medium |
@@ -1122,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/sidharth-shangonda/DSA/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/sidharth-shangonda/DSA/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0211-design-add-and-search-words-data-structure](https://github.com/sidharth-shangonda/DSA/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
