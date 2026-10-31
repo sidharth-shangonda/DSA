@@ -27,13 +27,14 @@ public:
         }
         node->isEnd = true;
     }
-    bool searchDot(string word, TrieNode* root) {
+    bool searchDot(string &word, TrieNode* root) {
         TrieNode* node = root;
         for(int i = 0;i<word.size();i++) {
             int idx = word[i] - 'a';
             if(word[i] == '.') {
+                string s = word.substr(i+1,word.size() - i);
                 for(int j=0;j<26;j++) {
-                    if(node->children[j] !=nullptr && searchDot(word.substr(i+1,word.size() - i),node->children[j]) ) {
+                    if(node->children[j] !=nullptr && searchDot(s,node->children[j]) ) {
                         return true;
                     }
                 } 
